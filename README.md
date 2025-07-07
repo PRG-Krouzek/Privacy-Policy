@@ -54,4 +54,4 @@ Doporučujeme vám pravidelně kontrolovat tyto Zásady ochrany osobních údaj�
 
 Pokud máte jakékoli dotazy ohledně těchto Zásad ochrany osobních údajů, můžete nás kontaktovat:
 
-* E-mailem: **[Váš kontaktní e-mail, např. podpora@vasestranka.cz]**
+* E-mailem: **[d9o96kkph@mozmail.com]**
