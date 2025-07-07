@@ -1,3 +1,4 @@
+**[Česky](https://example.com/privacy-policy-cz)** | **[English](https://example.com/privacy-policy-en)**
 # Zásady ochrany osobních údajů pro hru Word Coffin
 
 Datum účinnosti: 7. července 2025
