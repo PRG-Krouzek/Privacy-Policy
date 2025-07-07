@@ -1,4 +1,4 @@
-**[Česky](https://example.com/privacy-policy-cz)** | **[English](https://example.com/privacy-policy-en)**
+**[Česky](https://github.com/PRG-Krouzek/Privacy-Policy/blob/main/cz.md)** | **[English](https://github.com/PRG-Krouzek/Privacy-Policy/blob/main/en.md)**
 # Zásady ochrany osobních údajů pro hru Word Coffin
 
 Datum účinnosti: 7. července 2025
